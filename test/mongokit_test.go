@@ -3,7 +3,7 @@ package test
 import (
 	"context"
 	"fmt"
-	"git.onespace.co.th/osgolib/go-mongo-kit"
+	mk "github.com/surabotploydang/mongo-kit"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 	"go.mongodb.org/mongo-driver/mongo/options"
